@@ -1,0 +1,70 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.menu-container{
+    width: 30vw;
+    display: flex;
+    justify-content:space-between;
+    }
+site-body{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+h1{color: white;
+    background-color: black;
+width: 200px;;
+}
+.image{
+    width: 40%;
+    float: right;
+    margin-left: 30px;
+    margin-right: 40px;
+    padding: 30px;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: black;
+    background-color:white ;
+    width: 70%;
+}
+p{
+    color:black;
+    background-color: white;
+}
+img2{
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    margin-right: 40p
+}
+h3{
+    color: black;
+    background-color: white;
+    width: 200px;
+    float: none;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    display: inline-block;
+    margin: 20px;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    display: inline-block;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    display: inline-block;
+}
